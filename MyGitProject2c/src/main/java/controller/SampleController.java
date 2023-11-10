@@ -1,5 +1,5 @@
 package controller;
 
 public class SampleController {
-	//aa
+	//菊池尚斗
 }
