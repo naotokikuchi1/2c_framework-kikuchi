@@ -1,5 +1,5 @@
 package com.example.demo.controller;
 
 public class KikuchiController {
-	//菊
+	//菊ti
 }
